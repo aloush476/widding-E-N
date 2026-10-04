@@ -413,21 +413,14 @@ img {
 
 
 .names h1 {
-
     color: #a78327;
+    font-family: "Italianno", cursive;
 
-    font-family:
-        "Italianno",
-        cursive;
-
-    font-size:
-        clamp(48px,11vw,72px);
+    font-size: clamp(60px, 13vw, 86px);
 
     font-weight: 400;
-
     line-height: 1.2;
 }
-
 
 .names h1 span {
 
@@ -1362,10 +1355,10 @@ img {
 
     .names h1 {
 
-        font-size: clamp(32px, 10vw, 48px);
-
-        white-space: nowrap;
-    }
+    font-size: clamp(50px, 12vw, 80px);
+    
+    white-space: nowrap;
+}
 
 
     .names h1 span {
